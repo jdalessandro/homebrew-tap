@@ -1,7 +1,7 @@
 # Template for the tap: Casks/notchbot.rb (the placeholders in quotes are filled in by release.yml).
 cask "notchbot" do
-  version "0.1.0"
-  sha256 "d9a529fcb6541c7ea6540d4c360536409317e1fa1746d10790ddeb5a88f55ab7"
+  version "0.2.0"
+  sha256 "8f5097b90a4ce4ce22a60e87e1b98decca1d9d8dba82fc8134f6e371c9bd162a"
 
   url "https://github.com/jdalessandro/notchbot/releases/download/v#{version}/Notchbot-#{version}.dmg"
   name "NotchBot"
